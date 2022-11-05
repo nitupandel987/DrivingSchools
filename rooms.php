@@ -50,12 +50,12 @@
                         </button>
                         <div class="collapse navbar-collapse flex-column align-items-stretch mt-2" id="filterDropDown">
                         <div class="border bg-light p-3 rounded mb-3">
-                                <h5 class="mb-3" style="font-size:18px;">CHECK AVAILABILITY</h5>
+                                <h5 class="mb-3" style="font-size:18px;">Find The Educators</h5>
 
-                                <label class="form-label" style="font-weight:500">Check in</label>
+                                <!-- <label class="form-label" style="font-weight:500">Check in</label>
                             <input type="date" class="form-control shadow-none mb-3">
                             <label class="form-label" style="font-weight:500">Check out</label>
-                            <input type="date" class="form-control shadow-none">
+                            <input type="date" class="form-control shadow-none"> -->
 
                             </div>
                             <div class="border bg-light p-3 rounded mb-3">
@@ -63,31 +63,31 @@
                                 <div class="mb-2">
                                     <input type="checkbox" id="f1"class="form-check-input shadow-none me-1">
 
-                                    <label class="form-label" for="f1" >Facility One</label>
+                                    <label class="form-label" for="f1" >Two Wheeler</label>
                                 </div>
                                 <div class="mb-2">
                                     <input type="checkbox" id="f2"class="form-check-input shadow-none me-1">
 
-                                    <label class="form-label" for="f2" >Facility One</label>
+                                    <label class="form-label" for="f2" >Four Wheeler</label>
                                 </div>
                                 <div class="mb-2">
                                     <input type="checkbox" id="f3"class="form-check-input shadow-none me-1">
 
-                                    <label class="form-label" for="f3" >Facility Three</label>
+                                    <label class="form-label" for="f3" >Only Drivers</label>
                                 </div>
                            
                             </div>
 
                             <div class="border bg-light p-3 rounded mb-3">
-                                <h5 class="mb-3" style="font-size:18px;">Guests</h5>
+                                <h5 class="mb-3" style="font-size:18px;">Level</h5>
                                 <div class="d-flex">
                                 <div class="me-3">
-                                <label class="form-label">Adults</label>
+                                <label class="form-label">From Zero</label>
                                 <input type="number" class="form-control shadow-none">
 
                               </div>
                            <div>
-                                <label class="form-label">Children</label>
+                                <label class="form-label">Basic Understanding</label>
                                 <input type="number" class="form-control shadow-none">
                                 
                               </div>

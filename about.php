@@ -60,14 +60,14 @@
 <div class="row">
     <div class="col-lg-3 col-md-6 mb-4 px-4">
       <div class="bg-white rounded shaodw p-4 border-top border-4 text-center box">
-        <img src="Images/about/hotel.svg" width="70px">
+        <img src="Images/about/customers.svg" width="70px">
         <h4 class="mt-3">100+ Drivers</h4>
       </div>
     </div>
 
     <div class="col-lg-3 col-md-6 mb-4 px-4">
       <div class="bg-white rounded shaodw p-4 border-top border-4 text-center box">
-        <img src="Images/about/customers.svg" width="70px">
+        <img src="Images/about/hotel.svg" width="70px">
         <h4 class="mt-3">200+ Driving Schools</h4>
       </div>
     </div>

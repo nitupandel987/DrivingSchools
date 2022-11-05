@@ -436,14 +436,15 @@
 
     <!-- Reach us -->
 
-    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Reach Us</h2>
+    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Search Near By Schools</h2>
 
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-8 p-4 mb-lg-0 mb-3 bg-white rounded">
+                
                 <iframe class="w-100 rounded" height="320 px"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115330.43462063557!2d81.80158454999999!3d25.40226375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398534c9b20bd49f%3A0xa2237856ad4041a!2sPrayagraj%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1659596052250!5m2!1sen!2sin"
-                    height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    
+                    height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://my.atlistmaps.com/map/159ee24a-f358-4f28-8580-ce7dbd974485?share=true" allow="geolocation" width="100%" height="400px" frameborder="0" scrolling="no" allowfullscreen></iframe>
             </div>
             <div class="col-lg-4 col-md-4">
                 <div class="bg-white p-4 rounded mb-4">
