@@ -1,7 +1,7 @@
 # 
 <h1 align="center">$\textcolor{red}{ SLEEK\ GEAR}$</p></h1>
 <br>
-<div><h3>Problem Statement</h3>
+<div><h3>$\textcolor{#000080}{Problem\ Statement}$</h3>
  <p>
  
   As Learner lack of knowledge about best driving schools, drivers near me at afforadable prices.
@@ -13,15 +13,15 @@
  <br>
 </div>
 
-<div><h3> Solution Statement </h3>
+<div><h3>$\textcolor{#000080}{ Solution}$</h3>
  <p>Driving Schools and Drivers can register themselves on the platfrom and we authenticate their identity and previous records.
  So that learns have safelty, affordabilty and best Learning</p>
  
  <br>
  <br>
 </div>
-<div><h3> Presentation Link</h3>
-<a href="https://www.google.com/](https://docs.google.com/presentation/u/1/d/125QCo04mp_9pYSL6IMWzbXOjOAqjJ0ga/edit?usp=sharing&ouid=100425295685053484863&rtpof=true&sd=true" target="_blank">Click Me</a>
+<div><h3> $\textcolor{#000080}{Presentation\ Link}$</h3>
+<a href="https://docs.google.com/presentation/d/125QCo04mp_9pYSL6IMWzbXOjOAqjJ0ga/edit#slide=id.p1" target="_blank">Click Me</a>
   <br>
  <br>
 </div>
@@ -105,8 +105,28 @@
  
 </ul>
 
+<h3>$\textcolor{#000080}{Team\ Member\ Details}$</h3>
+<h6>
+Team Name 
+ </h6>
+ <h5>
+Hack Code
+ </h5>
 
-
+<h6>Team Member Name</h6>
+<ul>
+ <li><h5>
+Nitu Pandel
+  </h5>
+  </li>
+ 
+  <li><h5>
+ Khushi Agarwal
+    </h5>
+  </li>
+ </ul>
+ <br>
+ <br>
 
 
  <h2 align="center">$\textcolor{blue}{ THANK YOU }$</h2>
