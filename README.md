@@ -129,7 +129,8 @@ Nitu Pandel
  <br>
 
 We have also crearted the website in VELO WITH WIX 
-<a href=" https://nitupandel.wixsite.com/sleekgear" target="_blank">Click Me</a>
+
+<a href="https://nitupandel.wixsite.com/sleekgear" target="_blank">Click Me</a>
 
  <h2 align="center">$\textcolor{blue}{ THANK YOU }$</h2>
 
